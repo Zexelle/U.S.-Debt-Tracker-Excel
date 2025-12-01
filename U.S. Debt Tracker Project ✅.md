@@ -65,3 +65,12 @@ In Conclusion, Publicy Held debt is projected to increase at a steady increased 
 
 - Trend & Seasonal Pattern Analysis
 
+##
+
+🚀 How to Use This Project
+
+- Open the Excel file
+
+- Navigate through each tab (cleaned data, PivotTables, charts)
+
+- Review visuals to understand trends and breakdown patterns
